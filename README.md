@@ -1,2 +1,2 @@
-# tluong1116.github.io
+# My Blog
 First setup for my blog
